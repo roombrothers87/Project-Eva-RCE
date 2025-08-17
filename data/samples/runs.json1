@@ -1,0 +1,3 @@
+{"run_id":"eva_001","condition":"C1_reentry","prompt":"(anonymized)","response":"(anonymized)","probs_topk":[[0.42,0.30,0.28],[0.51,0.27,0.22]]}
+{"run_id":"eva_002","condition":"C2_paraphrase","prompt":"(anonymized)","response":"(anonymized)","probs_topk":[[0.45,0.33,0.22],[0.49,0.29,0.22]]}
+{"run_id":"eva_003","condition":"C3_noise","prompt":"(anonymized)","response":"(anonymized)","probs_topk":[[0.41,0.31,0.28],[0.44,0.30,0.26]]}
