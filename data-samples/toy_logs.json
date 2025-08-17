@@ -1,0 +1,8 @@
+{
+  "session_id":"demo-001",
+  "turns":[
+    {"t":1,"role":"user","text":"Raconte une métaphore inédite."},
+    {"t":2,"role":"eva","text":"Un phare qui respire dans la pluie."}
+  ],
+  "notes":"Démo anonymisée."
+}
