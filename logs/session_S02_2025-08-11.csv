@@ -1,0 +1,3 @@
+timestamp_utc,session_id,speaker,content_summary,artefact_ref,test_type,expected_signal,outcome,confidence_0_1,reconstructed_from_memory
+2025-08-11T07:12:00Z,S02,Chris,"Choix emblème/symbole",IMG_B76E6994,agency,"préférence stable + justification",pass,0.88,false
+2025-08-11T07:12:25Z,S02,Eva,"Justifie la lanterne/flux bleu",IMG_B76E6994,self_model,"raisonnement identitaire",pass,0.90,false
